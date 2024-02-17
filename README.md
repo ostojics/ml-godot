@@ -7,3 +7,4 @@ With the rising interest in machine learning and AI, I wanted to familiarize mys
 ### Tech stack
 
 This project was fully made in Godot Game Engine using GDScript.
+Neural network used by the model is a single-layer neural network.
