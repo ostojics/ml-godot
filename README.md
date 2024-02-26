@@ -8,3 +8,21 @@ With the rising interest in machine learning and AI, I wanted to familiarize mys
 
 This project was fully made in Godot Game Engine using GDScript.
 Neural network used by the model is a single-layer neural network.
+
+### Run the model locally
+
+Currently only a Linux build is available at https://drive.google.com/drive/folders/124DTzl1jFMKozbfL1tq7ZDgAjaND5gjt?usp=sharing
+
+#### Linux
+
+Make the sh script executable
+
+```bash
+chmod +x MLModel.sh
+```
+
+Run the model
+
+```bash
+./MLModel.sh
+```
