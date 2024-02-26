@@ -15,10 +15,14 @@ Currently only a Linux build is available at https://drive.google.com/drive/fold
 
 #### Linux
 
-Make the sh script executable
+Make the required files executable
 
 ```bash
 chmod +x MLModel.sh
+```
+
+```bash
+chmod +x MLModel.x86_64
 ```
 
 Run the model
